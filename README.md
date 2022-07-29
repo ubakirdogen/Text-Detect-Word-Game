@@ -9,6 +9,11 @@ This project uses OpenCV and Tesseract OCR Engine. Tested on Python 3.10
 ## 2. Run on local
 
 ### 2.1 Requirements
+Activate virtual enviroment(venv)
+```bash
+$ pip install -r requirements.txt
+```
+Install dependencies
 ```bash
 $ pip install -r requirements.txt
 ```
